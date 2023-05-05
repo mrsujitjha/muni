@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/search"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="profile"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/sync"
+        android:icon="@android:drawable/ic_popup_sync"
+        android:title="sync"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449003178358",
+    "project_id": "muni-1676620636295",
+    "storage_bucket": "muni-1676620636295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449003178358:android:a88aba8c74a6f656309257",
+        "android_client_info": {
+          "package_name": "skj.myapp.muni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449003178358-b2s5fd6sglep75ma8hni7f3lf7ubbipp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "skj.myapp.muni",
+            "certificate_hash": "1f319a3b17038427dfa2268e329b2995280e8f3c"
+          }
+        },
+        {
+          "client_id": "449003178358-48m8duaf5lv4ar2ori2c4hqi2j7oqevf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1Z4vTVHfvhrOYJCXySFPxdbJA4-_VWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449003178358-48m8duaf5lv4ar2ori2c4hqi2j7oqevf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
